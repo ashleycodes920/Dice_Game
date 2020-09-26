@@ -1,0 +1,41 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: rgb(27, 52, 94);
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Pacifico', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: rgb(223, 219, 196);
+}
+
+p {
+  font-size: 2rem;
+  color: rgb(223, 219, 196);
+  font-family: 'Caveat', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Caveat', cursive;
+
+}
